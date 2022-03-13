@@ -204,17 +204,7 @@ body{
     color: #f7f7f7;
 }
 
-/* .right-title::after{
-    content: "";
-    position: absolute;
-    width: 60%;
-    height: .2rem;
-    background-color: #ccc;
-    border-radius: 12px;
-    right: 0;
-    top: 50%;
-    transform: translateY(-50%);
-} */
+
 li{
     padding: 2px;
 }
